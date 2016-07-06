@@ -28,6 +28,8 @@ header nav {
 nav li {
     display: inline-block;
     padding: 12px 35px;
+    border-right: 1px solid transparent;
+    border-left: 1px solid transparent;
 }
 nav li:hover {
     border-right: 1px solid #a3a3a5;
